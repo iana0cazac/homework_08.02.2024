@@ -1,0 +1,7 @@
+[ec2-user@ip-172-31-33-20 Iana]$ ls
+myfirstbashscript.sh  script2.txt  script4.sh  test
+null                  script3.sh   script.sh   tmp
+[ec2-user@ip-172-31-33-20 Iana]$ ./myfirstbashscript.sh
+Thu Feb 15 17:24:08 UTC 2024
+hello iana!
+/opt/181223_evening/Iana
